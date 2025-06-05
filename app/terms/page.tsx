@@ -8,7 +8,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-bold mb-4 text-white">1. Acceptance of Terms</h2>
             <p>
-              By accessing and using the services provided by Fine Touch Infotech Pvt Ltd ("Company", "we", "us"), you
+              By accessing and using the services provided by Intraday Experts ("Company", "we", "us"), you
               accept and agree to be bound by the terms and provision of this agreement.
             </p>
           </section>
@@ -30,7 +30,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-bold mb-4 text-white">3. Services Provided</h2>
             <p className="mb-4">
-              Fine Touch Infotech Pvt Ltd provides market research, analysis, and trading recommendations. Our services
+              Intraday Experts provides market research, analysis, and trading recommendations. Our services
               include but are not limited to:
             </p>
             <ul className="list-disc list-inside space-y-2">

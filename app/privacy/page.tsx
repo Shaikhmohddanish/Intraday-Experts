@@ -8,7 +8,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-2xl font-bold mb-4 text-white">1. Information We Collect</h2>
             <p className="mb-4">
-              Fine Touch Infotech Pvt Ltd collects information to provide better services to our users. We collect
+              Intraday Experts collects information to provide better services to our users. We collect
               information in the following ways:
             </p>
             <ul className="list-disc list-inside space-y-2">
