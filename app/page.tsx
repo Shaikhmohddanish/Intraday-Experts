@@ -31,7 +31,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-6xl">
             <div className="inline-flex items-center px-4 py-2 bg-teal-500/20 border border-teal-500/30 rounded-full mb-8">
-              <span className="text-teal-400 text-sm font-medium">🚀 #1 Trading Platform in India</span>
+              <span className="text-teal-400 text-sm font-medium">🚀 #1 Trading Firm in India</span>
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-7xl xl:text-8xl font-bold mb-8 leading-tight">
