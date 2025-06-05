@@ -43,7 +43,7 @@ export default function HomePage() {
 
             <p className="text-xl lg:text-2xl mb-12 text-gray-300 max-w-4xl leading-relaxed">
               Gain market insights tailored to your needs. Make informed decisions with professional trading solutions
-              powered by AI and expert analysis.
+              by expert analysis.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6 mb-12">
@@ -113,7 +113,7 @@ export default function HomePage() {
             <InteractiveCard
               icon={Clock}
               title="Information Overload"
-              description="Filter through vast data to focus on what truly impacts your investments with AI-powered insights."
+              description="Filter through vast data to focus on what truly impacts your investments with Expert Insights."
               gradient="from-blue-500 to-purple-500"
             />
 
@@ -296,7 +296,7 @@ export default function HomePage() {
               <div className="space-y-4 mb-8">
                 <div className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-teal-400 rounded-full"></div>
-                  <span className="text-gray-300">AI-powered market analysis</span>
+                  <span className="text-gray-300">Expert market analysis</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
