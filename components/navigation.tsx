@@ -5,6 +5,7 @@ import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { Menu, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import Image from "next/image"
 
 export function Navigation() {
   const [isOpen, setIsOpen] = useState(false)
@@ -36,8 +37,15 @@ export function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16 lg:h-20">
           <Link href="/" className="flex items-center space-x-2" onClick={scrollToTop}>
-            <div className="w-8 h-8 lg:w-10 lg:h-10 bg-blue-500 rounded flex items-center justify-center">
-              <span className="text-white font-bold text-sm lg:text-base">IE</span>
+            <div className="w-8 h-8 lg:w-10 lg:h-10 rounded overflow-hidden flex items-center justify-center bg-white">
+              <Image
+                src="/images/logo.jpg"
+                alt="Intraday Experts Logo"
+                width={40}
+                height={40}
+                className="object-contain w-full h-full"
+                priority
+              />
             </div>
             <span className="font-bold text-base lg:text-xl">Intraday Experts</span>
           </Link>

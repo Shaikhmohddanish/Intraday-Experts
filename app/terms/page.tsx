@@ -110,7 +110,7 @@ export default function TermsPage() {
               <br />
               Email: support@intradayexperts.com
               <br />
-              Phone: +91 9167603133
+              Phone: 9167603133
             </p>
           </section>
 

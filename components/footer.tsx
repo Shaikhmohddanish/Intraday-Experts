@@ -8,7 +8,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">About Us</h3>
             <p className="text-gray-300">
-              Intraday Experts provides premier market research solutions, empowering traders and investors globally
+              Intraday Experts provides premium market research solutions, empowering traders and investors globally
               with cutting-edge analysis and insights.
             </p>
           </div>
@@ -48,7 +48,7 @@ export function Footer() {
               <p>Mahape Road, Mumbai,</p>
               <p>Maharashtra 400555</p>
               <p className="mt-3">support@intradayexperts.com</p>
-              <p>+91 9167603133</p>
+              <p>9167603133</p>
             </div>
           </div>
         </div>

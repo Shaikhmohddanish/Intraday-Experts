@@ -28,7 +28,7 @@ export function PhoneButton() {
               onClick={() => (window.location.href = "tel:+919167603133")}
               className="w-full bg-blue-500 hover:bg-blue-600 text-white"
             >
-              +91 9167603133
+              9167603133
             </Button>
           </div>
         )}

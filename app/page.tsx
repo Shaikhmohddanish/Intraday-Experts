@@ -163,11 +163,11 @@ export default function HomePage() {
             <Card className="group bg-slate-800/80 backdrop-blur-sm border-slate-700/50 hover:border-teal-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-teal-500/20 overflow-hidden">
               <div className="relative overflow-hidden">
                 <Image
-                  src="/images/Research Insights.jpeg?height=250&width=400"
+                  src="/images/Research Insights.jpeg?height=400&width=400"
                   alt="Research Insights"
                   width={400}
-                  height={250}
-                  className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-110"
+                  height={400}
+                  className="w-full aspect-square object-cover transition-transform duration-500 group-hover:scale-110"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 to-transparent"></div>
                 <div className="absolute top-4 right-4 bg-teal-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
@@ -194,11 +194,11 @@ export default function HomePage() {
             <Card className="group bg-slate-800/80 backdrop-blur-sm border-slate-700/50 hover:border-teal-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-teal-500/20 overflow-hidden">
               <div className="relative overflow-hidden">
                 <Image
-                  src="/images/Portfolio Management.jpeg?height=250&width=400"
+                  src="/images/portfoliomanagementservice.jpg?height=400&width=400"
                   alt="Portfolio Management"
                   width={400}
-                  height={250}
-                  className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-110"
+                  height={400}
+                  className="w-full aspect-square object-cover transition-transform duration-500 group-hover:scale-110"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 to-transparent"></div>
                 <div className="absolute top-4 right-4 bg-blue-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
@@ -225,11 +225,11 @@ export default function HomePage() {
             <Card className="group bg-slate-800/80 backdrop-blur-sm border-slate-700/50 hover:border-teal-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-teal-500/20 overflow-hidden md:col-span-3 lg:col-span-1">
               <div className="relative overflow-hidden">
                 <Image
-                  src="/images/Risk Assessment.jpeg?height=250&width=400"
+                  src="/images/Risk Assessment.jpg?height=400&width=400"
                   alt="Risk Assessment"
                   width={400}
-                  height={250}
-                  className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-110"
+                  height={400}
+                  className="w-full aspect-square object-cover transition-transform duration-500 group-hover:scale-110"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 to-transparent"></div>
                 <div className="absolute top-4 right-4 bg-purple-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
@@ -263,11 +263,11 @@ export default function HomePage() {
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-teal-500 to-blue-500 rounded-2xl blur opacity-20"></div>
               <Image
-                src="/images/Our Journey to Excellence.jpeg?height=500&width=600"
+                src="/images/Journey To excellence.jpg?height=500&width=500"
                 alt="Our Journey"
-                width={600}
+                width={500}
                 height={500}
-                className="relative w-full h-auto rounded-2xl shadow-2xl"
+                className="relative w-full h-auto aspect-square object-cover rounded-2xl shadow-2xl"
               />
             </div>
 
@@ -385,7 +385,7 @@ export default function HomePage() {
                 <span className="text-sm">Available Now</span>
               </div>
               <div className="w-px h-4 bg-white/30"></div>
-              <span className="text-lg font-bold">+91 9167603133</span>
+              <span className="text-lg font-bold">9167603133</span>
             </div>
           </div>
         </div>

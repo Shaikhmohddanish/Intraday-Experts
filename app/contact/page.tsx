@@ -128,7 +128,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="text-lg font-semibold mb-2 text-white">Phone Number</h3>
-                      <p className="text-gray-300">+91 9167603133</p>
+                      <p className="text-gray-300">9167603133</p>
                       <Button
                         variant="link"
                         className="text-blue-400 hover:text-blue-300 p-0 mt-2"
@@ -199,7 +199,7 @@ export default function ContactPage() {
             className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-3 text-lg font-bold"
             onClick={() => (window.location.href = "tel:+919167603133")}
           >
-            Call Now: +91 9167603133
+            Call Now: 9167603133
           </Button>
         </div>
       </section>

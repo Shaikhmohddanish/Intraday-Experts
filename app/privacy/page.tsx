@@ -123,7 +123,7 @@ export default function PrivacyPage() {
               <br />
               Email: support@intradayexperts.com
               <br />
-              Phone: +91 9167603133
+              Phone: 9167603133
               <br />
               Address: MIDC Industrial Area,<br />Millenium Business Park,<br />Mahape Road, Mumbai,<br />Maharashtra 400555
             </p>

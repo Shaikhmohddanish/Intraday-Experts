@@ -24,17 +24,17 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl lg:text-5xl font-bold mb-8">Our Journey to Excellence</h2>
               <p className="text-lg text-gray-300 leading-relaxed">
-                Trading View Experts is a premier market research consultancy based in New York City. Specializing in
+                Intraday Experts is a premium market research consultancy based in New York City. Specializing in
                 providing in-depth analysis and strategic insights for traders and investors, they offer a wide range of
                 services tailored to meet the unique needs of each client. With a team of experienced analysts and
-                cutting-edge technology, Trading View Experts has earned a reputation for delivering accurate and timely
+                cutting-edge technology, Intraday Experts has earned a reputation for delivering accurate and timely
                 market intelligence that drives profitable decision-making.
               </p>
             </div>
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-teal-500 to-blue-500 rounded-2xl blur opacity-20"></div>
               <Image
-                src="/images/Our Journey to Excellence.jpeg?height=400&width=500"
+                src="/images/Journey To excellence.jpg?height=400&width=500"
                 alt="Team celebrating success"
                 width={500}
                 height={400}
@@ -221,7 +221,7 @@ export default function AboutPage() {
 
             <div className="border-t border-white/30 pt-6 mt-6">
               <p className="text-white/90 mb-2">OR CALL US AT:</p>
-              <p className="text-2xl lg:text-3xl font-bold text-white">+91 9167603133</p>
+              <p className="text-2xl lg:text-3xl font-bold text-white">9167603133</p>
             </div>
           </div>
         </div>

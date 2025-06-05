@@ -25,6 +25,11 @@ export const metadata: Metadata = {
     siteName: "Intraday Experts",
     type: "website",
   },
+  icons: {
+    icon: [
+      { url: "/images/Fevicon.png", type: "image/png" }
+    ],
+  },
     generator: 'v0.dev'
 }
 
@@ -35,6 +40,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/images/Fevicon.png" type="image/png" />
+      </head>
       <body className={inter.className}>
         <DisclaimerBanner />
         <Navigation />

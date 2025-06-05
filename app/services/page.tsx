@@ -31,10 +31,10 @@ export default function ServicesPage() {
               </CardHeader>
               <CardContent>
                 <Image
-                  src="/images/Research Insights 1.jpeg?height=200&width=300"
+                  src="/images/Research Insights.jpeg?height=500&width=500"
                   alt="Market Research"
-                  width={300}
-                  height={200}
+                  width={500}
+                  height={500}
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
                 <p className="text-gray-300 mb-4">
@@ -59,7 +59,7 @@ export default function ServicesPage() {
               </CardHeader>
               <CardContent>
                 <Image
-                  src="/images/Portfolio Management 1.jpeg?height=200&width=300"
+                  src="/images/portfoliomanagementservice.jpg?height=500&width=500"
                   alt="Portfolio Management"
                   width={300}
                   height={200}
@@ -86,7 +86,7 @@ export default function ServicesPage() {
               </CardHeader>
               <CardContent>
                 <Image
-                  src="/images/Risk Assessment 1.jpeg?height=200&width=300"
+                  src="/images/Risk Assessment.jpg?height=500&width=500"
                   alt="Risk Management"
                   width={300}
                   height={200}
