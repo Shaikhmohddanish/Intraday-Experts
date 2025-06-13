@@ -43,10 +43,8 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <div className="space-y-2 text-gray-300">
-              <p>MIDC Industrial Area,</p>
-              <p>Millenium Business Park,</p>
-              <p>Mahape Road, Mumbai,</p>
-              <p>Maharashtra 400555</p>
+              <p>Sakaram Patil Marg, Sector 1A, CBD Belapur,</p>
+              <p>Navi Mumbai, Maharashtra 400614, India</p>
               <p className="mt-3">support@intradayexperts.com</p>
               <p>9167603133</p>
             </div>

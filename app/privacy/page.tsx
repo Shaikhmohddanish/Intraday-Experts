@@ -125,7 +125,7 @@ export default function PrivacyPage() {
               <br />
               Phone: 9167603133
               <br />
-              Address: MIDC Industrial Area,<br />Millenium Business Park,<br />Mahape Road, Mumbai,<br />Maharashtra 400555
+              Address: Sakaram Patil Marg, Sector 1A, CBD Belapur,<br />Navi Mumbai, Maharashtra 400614, India
             </p>
           </section>
 
